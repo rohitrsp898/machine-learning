@@ -1,0 +1,13 @@
+[project]
+name = "jupyter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "category-encoders>=2.8.1",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "torch>=2.10.0",
+]
